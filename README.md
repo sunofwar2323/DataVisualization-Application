@@ -23,3 +23,6 @@ Import a CSV file with data
 Choose the type of graph you want to generate
 Customize the graph properties
 Write a conclusion and save it as a Word file
+
+# Contributions
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you find a bug or have a suggestion for improvement.
